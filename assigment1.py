@@ -5,7 +5,7 @@ student details.
 """
 
 # Defining the Student class
-class Student:
+class Student():
     # Constructor to initialize name and marks
     def __init__(self, name, marks):
         self.name = name

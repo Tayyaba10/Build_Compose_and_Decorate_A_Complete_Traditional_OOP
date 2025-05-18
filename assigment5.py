@@ -4,7 +4,7 @@ that returns the sum. No class or instance variables should be used.
 """
 
 # Define the MathUtils class
-class MathUtils:
+class MathUtils():
     
     @staticmethod
     def add(a,b):

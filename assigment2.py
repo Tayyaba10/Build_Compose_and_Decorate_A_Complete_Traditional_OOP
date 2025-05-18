@@ -4,7 +4,7 @@ Use a class variable and a class method with cls to manage and display the cou
 """
 
 # Defining the Counter class
-class Counter:
+class Counter():
     # Class variable to keep track of the count
     count = 0 
     

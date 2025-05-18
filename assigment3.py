@@ -4,7 +4,7 @@ Instantiate the class and access both from outside the class.
 """
 
 # Defining the Car class
-class Car:
+class Car():
     
     # Constructor to initialize the brand of the car
     def __init__(self, brand):

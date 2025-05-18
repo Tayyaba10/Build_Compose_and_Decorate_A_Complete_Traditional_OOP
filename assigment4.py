@@ -4,7 +4,7 @@ Add a class method change_bank_name(cls, name) that allows
 changing the bank name. Show that it affects all instances.
 """
 # Bank class with a class variable and a class method to change the bank name
-class Bank:
+class Bank():
     # Class variable
     bank_name = "State Bank Of Pakistan"
     
